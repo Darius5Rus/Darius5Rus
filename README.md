@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darius5Rus
-- 👀 I’m interested in Web developer and the esports
+- 👀 I’m interested in Web developer and esports
 - 🌱 I’m currently learning Web developer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on DM Twitter and darius55rus@gmail.com
