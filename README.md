@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Darius5Rus
-- 👀 I’m interested in Web developer and esports
-- 🌱 I’m currently learning Web developer 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on DM Twitter and darius55rus@gmail.com
+Darius Rus - 21 years old. Future Software Engineer.
+
+Freedom and Responsibility
+Software and Computer Vision Developer.
+Cobot Programmer.
+Deep Learning and Neural Networks.
+Database Administration.
 
 <!---
 Darius5Rus/Darius5Rus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
