@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm [Your Name]</h1>
+<h1>👋 Hi, I'm [Darius Rus]</h1>
 
 ## 👨‍💻 About Me
 
