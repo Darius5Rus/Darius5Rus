@@ -5,10 +5,7 @@
 Darius Rus - 21 years old. Future Software Engineer.
 
 Freedom and Responsibility
-Software and Computer Vision Developer.
-Cobot Programmer.
-Deep Learning and Neural Networks.
-Database Administration.
+Software Developer | Machine Learning | AI 
 
 📫 Feel free to reach out — I'm open to collaboration, mentoring, and new opportunities.
 
