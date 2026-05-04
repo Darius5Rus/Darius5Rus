@@ -2,9 +2,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer working with **Java, C#, Android, and Angular**, with a focus on **Deep Learning** and **machine vision** using Halcon.
+Darius Rus - 21 years old. Future Software Engineer.
 
-I'm passionate about building mobile apps, computer vision systems, and full-stack web applications.
+Freedom and Responsibility
+Software and Computer Vision Developer.
+Cobot Programmer.
+Deep Learning and Neural Networks.
+Database Administration.
 
 📫 Feel free to reach out — I'm open to collaboration, mentoring, and new opportunities.
 
